@@ -1,0 +1,69 @@
+timezone: Asia/Singapore
+lookback_hours: 48
+platforms:
+  linkedin:
+    keywords:
+    - linkedin
+    - campaign manager
+    - accelerate
+    - li
+    - sponsored messaging
+    feeds: []
+  meta:
+    keywords:
+    - meta
+    - facebook ads
+    - instagram ads
+    - advantage+
+    - ads manager
+    - business manager
+    feeds: []
+  tiktok:
+    keywords:
+    - tiktok
+    - ttad
+    - creatives
+    - spark ads
+    - search ads
+    feeds: []
+  google_ads:
+    keywords:
+    - google ads
+    - adwords
+    - pmax
+    - demand gen
+    - search ads 360
+    feeds:
+    - https://ads-developers.googleblog.com/feeds/posts/default
+  dv360:
+    keywords:
+    - dv360
+    - display & video 360
+    - bid manager
+    - floodlight
+    feeds: []
+  sa360:
+    keywords:
+    - sa360
+    - search ads 360
+    - floodlight
+    feeds: []
+  yahoo_dsp:
+    keywords:
+    - yahoo dsp
+    - yahoo advertising
+    - native
+    - gemini
+    - ssp
+    - rtb
+    feeds: []
+  industry:
+    keywords:
+    - iab
+    - brand safety
+    - privacy
+    - cookie
+    - attribution
+    - mma
+    - mrc
+    feeds: []
