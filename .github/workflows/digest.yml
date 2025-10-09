@@ -2,23 +2,34 @@ name: Build AdTech Digest
 
 on:
   schedule:
-    - cron: '5 1 * * *'  # Runs 09:05 SGT daily
+    - cron: '5 1 * * *'   # 09:05 SGT daily
   workflow_dispatch:
+
+permissions:
+  contents: write          # allow push with GITHUB_TOKEN
 
 jobs:
   run:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # ensures push works cleanly
+
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
+      - name: Ensure output dir
+        run: mkdir -p output
+
       - run: pip install -r requirements.txt
       - run: python agent.py
+
       - name: Commit digest
         run: |
           git config user.name "bot"
           git config user.email "bot@example.com"
-          git add output/digest.md
+          git add -A
           git commit -m "Update digest [skip ci]" || echo "No changes"
-          git push
+          git push origin HEAD:${{ github.ref_name }}
