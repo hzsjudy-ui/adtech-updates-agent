@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-02-19 03:41 UTC
+Generated: 2026-02-20 03:36 UTC
 
 ## LINKEDIN (1)
 
-- **Announcing user list management and enhanced audience ingestion for the Data Manager API**  
+- **Announcing Android Google Mobile Ads SDK 25.0.0**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/02/announcing-user-list-management-and.html  
-  Published: 2026-02-17T14:00:00.000-08:00  
-  Summary: We're excited to announce the release of v1.5 of the Data Manager API, delivering a more comprehensive platform for data management. This update introduces powerful new capabilities for managing user lists alongside expanded options for audience member ingestion. **End to end user list management** The UserListService now allows you to oversee the lifecycle of your user lists entirely through the …
+  Link: http://ads-developers.googleblog.com/2026/02/announcing-android-google-mobile-ads.html  
+  Published: 2026-02-19T09:07:00.000-08:00  
+  Summary: Version 25.0.0 of the Android Google Mobile Ads SDK is now available. We recommend upgrading as soon as possible to take advantage of the latest features, performance improvements, and API updates. This is a major version update that includes several breaking changes, new functionality for optimizing banner ad sizes, and important dependency updates. ### New Large Anchored Adaptive Banner Size API…
