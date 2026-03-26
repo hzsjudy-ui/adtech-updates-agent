@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-03-25 03:41 UTC
+Generated: 2026-03-26 03:51 UTC
 
 ## LINKEDIN (1)
 
-- **Announcing new Display & Video 360 API Discord channels and a documentation update!**  
+- **Announcing v23.2 of the Google Ads API**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/03/announcing-new-display-video-360-api.html  
-  Published: 2026-03-23T10:04:00.000-07:00  
-  Summary: Today we’re announcing two huge improvements for Display & Video 360 bulk tools. First, we are launching support for Display & Video 360 API, Structured Data Files, and Bid Manager API products in the existing “Google Advertising and Measurement Community” Discord server! To join, just click this invite link and follow the onboarding guide. Our team will be on this server regularly to interact wit…
+  Link: http://ads-developers.googleblog.com/2026/03/announcing-v232-of-google-ads-api.html  
+  Published: 2026-03-25T14:59:00.000-07:00  
+  Summary: Today, we’re announcing the v23.2 release of the Google Ads API. To use the new v23.2 features, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in our "Google Ads API Release Highlights" event on Discord or on our Ads Developers YouTube Live tomorrow (March 26th at 11…
