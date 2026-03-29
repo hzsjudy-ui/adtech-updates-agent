@@ -1,8 +1,8 @@
 # AdTech Updates Digest
 
-Generated: 2026-03-28 03:41 UTC
+Generated: 2026-03-29 04:06 UTC
 
-## LINKEDIN (3)
+## LINKEDIN (2)
 
 - **New Google Ad Manager API read-only scope**  
   Source: Google Ads Developer Blog  
@@ -14,8 +14,3 @@ Generated: 2026-03-28 03:41 UTC
   Link: http://ads-developers.googleblog.com/2026/03/increase-in-batch-job-service-request.html  
   Published: 2026-03-27T10:57:00.000-07:00  
   Summary: **Increased Request Limits for BatchJobService Enhance Large Asset Uploads** We're pleased to announce significant increases to the request size limits for the `BatchJobService.AddBatchJobOperations` method in the Google Ads API. These changes are designed to streamline workflows, particularly for developers uploading multiple large assets like images, by reducing the need to split uploads into nu…
-- **Upcoming Improvements to Offline Conversion Imports**  
-  Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/03/upcoming-improvements-to-offline.html  
-  Published: 2026-03-26T09:25:00.000-07:00  
-  Summary: Starting in **April, 2026** the Google Ads API will benefit from a series of infrastructure changes designed to improve the Offline Conversion Import experience. These upgrades will not result in any breaking changes to the Google Ads API, however there may be minor fluctuations in attribution rates as the changes are rolled out. Here is a breakdown of the rollout and the improvements you can expe…
