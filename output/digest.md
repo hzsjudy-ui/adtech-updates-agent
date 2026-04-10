@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-04-09 03:51 UTC
+Generated: 2026-04-10 04:11 UTC
 
 ## LINKEDIN (1)
 
-- **New Data Manager API channels on Discord**  
+- **Merchant API is coming to Google Ads scripts starting April 22, 2026**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/04/new-data-manager-api-channels-on-discord.html  
-  Published: 2026-04-07T09:41:00.000-07:00  
-  Summary: We're excited to announce the addition of new channels for the Data Manager API on our “Google Advertising and Measurement Community” Discord server. To join, just click this invite link and follow the onboarding guide. Our team will be on this server regularly to interact with the Data Manager API community, answering questions and gathering feedback in the `#data-manager-api` channel. We’ll also…
+  Link: http://ads-developers.googleblog.com/2026/04/merchant-api-is-coming-to-google-ads.html  
+  Published: 2026-04-09T11:31:00.000-07:00  
+  Summary: The Content API for Shopping will sunset on **August 18, 2026**, to be replaced by the Merchant API. This migration provides a shift toward more robust, scalable, and feature-rich integrations. For Google Ads scripts users, the Google Ads scripts editor will begin rolling out Merchant API support on **April 22, 2026**. While the Content API for Shopping will remain available until its sunset, here…
