@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-04-16 04:18 UTC
+Generated: 2026-04-17 04:16 UTC
 
 ## LINKEDIN (1)
 
-- **April 2026 update to Display & Video 360 API**  
+- **Ads DevCast E3: Improving your Advertising Workflows**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/04/april-2026-update-to-display-video-360.html  
-  Published: 2026-04-14T09:42:00.000-07:00  
-  Summary: Today we’re announcing the April 2026 update to the Display & Video 360 API. This update includes the following: * Support for additional `Exchange` and `ThirdPartyVendor` values. * `AdAsset` identifier fields in objects used in `AdGroupAd` resources. * Beta support for Demand Gen resource management. **While Demand Gen campaign support is in beta, it is only available to allowlisted customers.** …
+  Link: http://ads-developers.googleblog.com/2026/04/ads-devcast-e3-improving-your.html  
+  Published: 2026-04-16T09:51:00.000-07:00  
+  Summary: *Improving your Advertising Workflows* It’s an incredible time to be a developer in the advertising space. Innovation is moving at a breakneck pace, and we’re shifting from incremental API integrations to fundamental improvements in how technical users interact with our platforms. In the latest episode of Ads DevCast, I sat down with my colleague Matt Landers to discuss how AI is moving from "hype…
