@@ -1,6 +1,6 @@
 # AdTech Updates Digest
 
-Generated: 2026-05-06 04:37 UTC
+Generated: 2026-05-07 04:38 UTC
 
 ## LINKEDIN (1)
 
