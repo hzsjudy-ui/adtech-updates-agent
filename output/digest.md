@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-07-22 04:23 UTC
+Generated: 2026-07-23 04:22 UTC
 
 ## LINKEDIN (1)
 
-- **Enabling Local Inventory Ads by Default for Shopping Campaigns starting on August 31, 2026**  
+- **Announcing v25 of the Google Ads API**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/07/enabling-local-inventory-ads-by-default.html  
-  Published: 2026-07-20T09:35:18.270-07:00  
-  Summary: What is changing? ----------------- On **August 31, 2026,** we are aligning Shopping campaigns with Performance Max for Retail campaigns by enabling Local Inventory Ads (LIA) by default. Previously, developers and advertisers had to explicitly set the `enable_local` field to `true` within a campaign's `ShoppingSetting` in order to serve products in their LIA feed. With this change, the `Campaign.S…
+  Link: http://ads-developers.googleblog.com/2026/07/announcing-v25-of-google-ads-api.html  
+  Published: 2026-07-22T16:24:15.284-07:00  
+  Summary: Today, we’re announcing the v25 release of the Google Ads API. This major release brings support for new reporting features and goals. To use these new capabilities, you must upgrade your client libraries and client code. All the updated client libraries and code examples have been published. Come join us for a live walkthrough of this release in our "Google Ads API Release Highlights" event on Di…
