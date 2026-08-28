@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-08-27 11:07 UTC
+Generated: 2026-08-28 12:39 UTC
 
 ## LINKEDIN (1)
 
-- **Google Ads API Developer Assistant v4.0.0**  
+- **October 2026 changes to the Display & Video 360 API and Structured Data Files**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/08/google-ads-api-developer-assistant-v400.html  
-  Published: 2026-08-25T12:21:15.067-07:00  
-  Summary: A major release of the **Google Ads API Developer Assistant** is now available. This release transitions the assistant from a standalone project setup to a unified plugin architecture designed to bring specialized Google Ads API capabilities directly into AI agent workflows. --- What is it? ----------- The Google Ads API Developer Assistant brings deep Google Ads domain expertise into AI coding en…
+  Link: http://ads-developers.googleblog.com/2026/08/october-2026-changes-to-display-video.html  
+  Published: 2026-08-27T16:21:44.255-07:00  
+  Summary: Today we’re announcing three unversioned changes to the Display & Video 360 API and Structured Data Files that will take effect in **October 2026** and may impact your existing integrations. These changes will take place on the following dates and have been fully detailed on our Announced Deprecations page: Starting **October 1, 2026**: * You will no longer be able to exclude specific digital cont…
