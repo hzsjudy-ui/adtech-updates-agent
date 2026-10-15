@@ -1,11 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-10-14 05:59 UTC
+Generated: 2026-10-15 05:46 UTC
 
 ## LINKEDIN (1)
 
-- **Google Ads API Release and Sunset Schedules for 2026-2027**  
+- **Announcing v26 of the Google Ads API**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/10/google-ads-api-release-and-sunset.html  
-  Published: 2026-10-12T09:57:15.356-07:00  
-  Summary: Last year, we shifted to a monthly release schedule for the Google Ads API to provide you faster API access to Ads features available in the Google Ads UI. As we enter a new agentic era where speed and agility are paramount, we are thrilled to accelerate our launch timelines even further - moving to two Google Ads API releases per month starting from version v26! This faster cadence gives your aut…
+  Link: http://ads-developers.googleblog.com/2026/10/announcing-v26-of-google-ads-api.html  
+  Published: 2026-10-14T15:51:56.751-07:00  
+  Summary: Today we are announcing the release of v26 of the Google Ads API. To use the new capabilities, you must upgrade your client libraries and client code. We've published all updated client libraries and code examples. Come join us for a live walkthrough of this release in our "Google Ads API Release Highlights" event on Discord or our Ads Developers YouTube Live tomorrow (October 15 at 10:00 AM ET). …
