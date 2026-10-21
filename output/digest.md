@@ -1,3 +1,3 @@
 # AdTech Updates Digest
 
-Generated: 2026-10-20 05:52 UTC
+Generated: 2026-10-21 05:54 UTC
