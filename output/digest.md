@@ -1,16 +1,11 @@
 # AdTech Updates Digest
 
-Generated: 2026-11-06 07:51 UTC
+Generated: 2026-11-07 06:59 UTC
 
-## LINKEDIN (2)
+## LINKEDIN (1)
 
-- **Data Manager API now supports Google Ads call conversions and row-level diagnostics**  
+- **Prepare for CocoaPods read-only mode: Migrate your iOS apps to Swift Package Manager**  
   Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/11/data-manager-api-now-supports-google.html  
-  Published: 2026-11-04T13:39:56.555-08:00  
-  Summary: The latest release of the Data Manager API adds support for Google Ads call conversions. It also adds row-level details to diagnostics to help you find and fix the exact records that had problems during processing. Send call conversions to Google Ads ----------------------------------- You can now use the Data Manager API to send call conversions to Google Ads. Call conversions track when your ads…
-- **Upcoming changes to multi-party approvals in the Google Ads API**  
-  Source: Google Ads Developer Blog  
-  Link: http://ads-developers.googleblog.com/2026/11/upcoming-changes-to-multi-party.html  
-  Published: 2026-11-04T11:47:23.365-08:00  
-  Summary: Earlier this year, the Google Ads API started requiring multi-party approvals (MPA) when performing sensitive API actions. Starting the week of **December 7, 2026**, we are introducing additional changes to improve the developer experience for multi-party approvals. ### What’s changing? **Deferred access invitation creation:** If a multi-party approval is required, the `CustomerUserAccessInvitatio…
+  Link: http://ads-developers.googleblog.com/2026/11/prepare-for-cocoapods-read-only-mode.html  
+  Published: 2026-11-06T09:58:57.354-08:00  
+  Summary: On **December 2, 2026**, the CocoaPods Specs repository will permanently transition to read-only mode. As a result, we will no longer publish new versions of the Google Mobile Ads SDK or mediation adapters for iOS to CocoaPods after this date. **What this means for your iOS apps** ------------------------------------- If you currently use CocoaPods to install the Google Mobile Ads SDK (`Google-Mob…
